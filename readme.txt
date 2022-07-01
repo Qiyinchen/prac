@@ -4,3 +4,5 @@ The third line in this txt.
 The fourth line.
 About creating a new branch.
 The sixth line.
+
+The content in branch dev2.
